@@ -6,8 +6,8 @@
 // Cluster: Stay-MI-Prod-01
 // Database:Stay-MI-Prod-01
 // Shell:   Legacy
-// Reason:  test
+// Reason:  sso test
 // Date:    2026-06-23
 // ═══════════════════════════════════════════════════
 
-test_final_attachment_azure
+sso teest
