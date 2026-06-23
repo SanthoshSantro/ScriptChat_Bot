@@ -5,9 +5,9 @@
 // Project: Marriott-Production
 // Cluster: Stay-MI-Prod-01
 // Database:Stay-MI-Prod-01
-// Shell:   Latest
-// Reason:  script bot
+// Shell:   Legacy
+// Reason:  final check
 // Date:    2026-06-23
 // ═══════════════════════════════════════════════════
 
-script bot
+final check
