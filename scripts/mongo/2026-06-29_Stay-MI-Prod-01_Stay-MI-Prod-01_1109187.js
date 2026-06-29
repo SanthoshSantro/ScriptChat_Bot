@@ -6,8 +6,8 @@
 // Cluster: Stay-MI-Prod-01
 // Database:Stay-MI-Prod-01
 // Shell:   Latest
-// Reason:  final demo
+// Reason:  final demo check
 // Date:    2026-06-29
 // ═══════════════════════════════════════════════════
 
-final demo
+pre demo
