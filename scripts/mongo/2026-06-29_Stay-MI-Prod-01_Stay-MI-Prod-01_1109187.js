@@ -5,9 +5,9 @@
 // Project: Marriott-Production
 // Cluster: Stay-MI-Prod-01
 // Database:Stay-MI-Prod-01
-// Shell:   Latest
-// Reason:  pre demo
+// Shell:   Legacy
+// Reason:  demo to sab
 // Date:    2026-06-29
 // ═══════════════════════════════════════════════════
 
-pre demo
+demo to sab
